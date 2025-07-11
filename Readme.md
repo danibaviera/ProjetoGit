@@ -1,0 +1,1 @@
+Projeto o qual estou aprendendo a usar o Git
