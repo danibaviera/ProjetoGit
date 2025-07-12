@@ -1,1 +1,1 @@
-Projeto o qual estou aprendendo a usar o Git
+Change in the project in which I'm learning to use Git
